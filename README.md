@@ -1,3 +1,5 @@
+x<<<<<<< HEAD
+
 # Goods Mart — Marché & Ingrédients Frais (Design Blanc & Multilingue)
 
 Application web e-commerce réactive conçue avec **React 19**, **Vite**, **Tailwind CSS** et **Lucide Icons**, inspirée des interfaces mobiles de livraison haut de gamme (**Bolt Food** & **Uber**).
@@ -9,7 +11,7 @@ Application web e-commerce réactive conçue avec **React 19**, **Vite**, **Tail
 1. **Splash Screen Épuré sur Fond Blanc (`bg-white`)** :
    - Fond **100% blanc**, lumineux, flottant et moderne, sans aucune boîte de contour rigide.
    - Logo imposant **Goods Mart** en Bleu Marine (`marine-900`) et Island Green (`emerald-500`) qui s'engouffre avec fluidité dans le panier d'achat flottant.
-   - Transition de glissement vers le haut (*slide-up*) découvrant le marché.
+   - Transition de glissement vers le haut (_slide-up_) découvrant le marché.
 
 2. **Sélecteur de Langues Interactif & Traduction Dynamique** :
    - Menu déroulant interactif dans le Burger Menu avec 5 langues supportées :
@@ -30,7 +32,7 @@ Application web e-commerce réactive conçue avec **React 19**, **Vite**, **Tail
    - **Sous-barre de recherche** : Placée sous le header principal avec anneau de focus Island Green et bouton de réinitialisation.
 
 5. **Rayons par Catégories & Défilement Horizontal (Swipe à droite)** :
-   - Rayons organisés : *Légumes & Frais*, *Épices & Condiments*, *Tubercules & Grains*, *Huiles & Essentiels*.
+   - Rayons organisés : _Légumes & Frais_, _Épices & Condiments_, _Tubercules & Grains_, _Huiles & Essentiels_.
    - Défilement tactile fluide vers la droite sur mobile (`snap-x scrollbar-none touch-pan-x`).
    - Mode recherche avec grille responsive d'au moins **2 colonnes sur mobile** et hauteur de cellules normalisée sans glitch.
 
@@ -48,3 +50,11 @@ npm run build
 # Prévisualiser la version de production
 npm run preview
 ```
+
+=======
+
+# goodsmart
+
+goods market ghana online limited
+
+> > > > > > > 87588a3b715c6721ea34b166680a53d97dda58e1
